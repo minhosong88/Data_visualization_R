@@ -8,14 +8,14 @@ This project recreates the Economist's "Corruption and Human Development" plot u
 ## **Original Image**
 Below is the original plot from the Economist:
 
-![Original Plot](https://raw.githubusercontent.com/minhosong88/Data_visualization_R/main/Economist_original_plot.png) <!-- Replace with the actual path to the original image -->
+![Original Plot](https://raw.githubusercontent.com/minhosong88/Data_visualization_R/Economist_original_plot.png) <!-- Replace with the actual path to the original image -->
 
 ---
 
 ## **My Plot**
 Below is my version of the plot created using R:
 
-![My Plot](https://raw.githubusercontent.com/minhosong88/Data_visualization_R/main/Rplotimage.png) <!-- Replace with the actual path to your generated plot -->
+![My Plot](https://raw.githubusercontent.com/minhosong88/Data_visualization_R/Rplotimage.png) <!-- Replace with the actual path to your generated plot -->
 
 ---
 ## **Features**
