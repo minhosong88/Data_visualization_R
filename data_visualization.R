@@ -3,7 +3,7 @@ library(ggplot2)
 library(ggthemes)
 library(ggrepel) 
 # Load the data
-df <- read.csv(file='C:\\Github\\Data_visualization_R\\Economist_Assignment_Data.csv')
+df <- read.csv(file='Economist_Assignment_Data.csv')
 # Remove the index row created by csv file
 df <- df[-1]
 # Check the dataset
